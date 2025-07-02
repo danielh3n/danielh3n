@@ -1,4 +1,4 @@
-# 🧑‍💻 Hi there, my name is Daniel 🧑‍💻
+# 🧑‍💻 Hi there, I'm Daniel 🧑‍💻
 
 I'm a Quality Assurance Engineer with solid experience in building reliable and maintainable automated tests using **Cypress**. I work closely with cross-functional Agile teams, focusing on improving the quality of software through:
 
