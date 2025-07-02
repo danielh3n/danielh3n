@@ -1,16 +1,37 @@
-## Hi there 👋
+# 🧑‍💻 Hi there, my name is Daniel 🧑‍💻
 
-<!--
-**danielh3n/danielh3n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Quality Assurance Engineer with solid experience in building reliable and maintainable automated tests using **Cypress**. I work closely with cross-functional Agile teams, focusing on improving the quality of software through:
 
-Here are some ideas to get you started:
+- ✅ Robust **end-to-end automated tests** using Cypress
+- ✅ Integration of automated tests with **CI/CD pipelines**
+- ✅ Adoption of **QA best practices** for scalable and maintainable test suites
+- ✅ Promoting **efficiency, reliability, and continuous improvement** in development processes
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💻​ Tech Stack & Tools 💻​
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Cypress-17202C?logo=cypress&logoColor=white&style=for-the-badge" alt="Cypress"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" alt="VSCode"/>
+  <img src="https://img.shields.io/badge/NPM-CB3837?logo=npm&logoColor=white&style=for-the-badge" alt="NPM"/>
+  <img src="https://img.shields.io/badge/Yarn-2C8EBB?logo=yarn&logoColor=white&style=for-the-badge" alt="Yarn"/>
+  <img src="https://img.shields.io/badge/ESLint-4B32C3?logo=eslint&logoColor=white&style=for-the-badge" alt="ESLint"/>
+  <img src="https://img.shields.io/badge/Prettier-F7B93E?logo=prettier&logoColor=000&style=for-the-badge" alt="Prettier"/>
+  <img src="https://img.shields.io/badge/Mochawesome-1D1D1D?style=for-the-badge&logo=report&logoColor=white" alt="Mochawesome"/>
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=github-actions&logoColor=white&style=for-the-badge" alt="GitHub Actions"/>
+  <img src="https://img.shields.io/badge/GitLab%20CI-FC6D26?logo=gitlab&logoColor=white&style=for-the-badge" alt="GitLab CI"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge" alt="Postman"/>
+  <img src="https://img.shields.io/badge/Insomnia-4000BF?logo=insomnia&logoColor=white&style=for-the-badge" alt="Insomnia"/>
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=black&style=for-the-badge" alt="Swagger"/>
+  <img src="https://img.shields.io/badge/Datadog-632CA6?logo=datadog&logoColor=white&style=for-the-badge" alt="Datadog"/>
+  <img src="https://img.shields.io/badge/BDD-000000?style=for-the-badge&logo=cucumber&logoColor=white" alt="BDD"/>
+  <img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white&style=for-the-badge" alt="Jira"/>
+  <img src="https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=white&style=for-the-badge" alt="Trello"/>
+  <img src="https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white&style=for-the-badge" alt="Markdown"/>
+</div>
+
+
