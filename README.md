@@ -24,8 +24,6 @@ I'm a Quality Assurance Engineer with solid experience in building reliable and 
   <img src="https://img.shields.io/badge/Datadog-632CA6?logo=datadog&logoColor=white&style=for-the-badge" alt="Datadog"/>
   <img src="https://img.shields.io/badge/BDD-000000?style=for-the-badge&logo=cucumber&logoColor=white" alt="BDD"/>
   <img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white&style=for-the-badge" alt="Jira"/>
-  <img src="https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=white&style=for-the-badge" alt="Trello"/>
-  <img src="https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white&style=for-the-badge" alt="Markdown"/>
 </div>
 
 
