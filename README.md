@@ -1,11 +1,11 @@
 # 🧑‍💻 Hi there, I'm Daniel 🧑‍💻
 
-I'm a Quality Assurance Engineer with solid experience in building reliable and maintainable automated tests using **Cypress**. I work closely with cross-functional Agile teams, focusing on improving the quality of software through:
+I'm a Quality Assurance Engineer with solid experience in building reliable and maintainable automated tests using Cypress. I work closely with cross-functional Agile teams, focusing on improving the quality of software through:
 
-- Robust **end-to-end automated tests** using Cypress
-- Integration of automated tests with **CI/CD pipelines**
-- Adoption of **QA best practices** for scalable and maintainable test suites
-- Promoting **efficiency, reliability, and continuous improvement** in development processes
+- Robust end-to-end automated tests using Cypress
+- Integration of automated tests with CI/CD pipelines
+- Adoption of QA best practices for scalable and maintainable test suites
+- Promoting efficiency, reliability, and continuous improvement in development processes
 
 ---
 
