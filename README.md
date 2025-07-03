@@ -20,7 +20,6 @@ I'm a Quality Assurance Engineer with solid experience in building reliable and 
   <img src="https://img.shields.io/badge/GitLab%20CI-FC6D26?logo=gitlab&logoColor=white&style=for-the-badge" alt="GitLab CI"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge" alt="Postman"/>
   <img src="https://img.shields.io/badge/Insomnia-4000BF?logo=insomnia&logoColor=white&style=for-the-badge" alt="Insomnia"/>
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=black&style=for-the-badge" alt="Swagger"/>
   <img src="https://img.shields.io/badge/Datadog-632CA6?logo=datadog&logoColor=white&style=for-the-badge" alt="Datadog"/>
   <img src="https://img.shields.io/badge/BDD-000000?style=for-the-badge&logo=cucumber&logoColor=white" alt="BDD"/>
   <img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white&style=for-the-badge" alt="Jira"/>
